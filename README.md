@@ -33,3 +33,7 @@ El tres en línea, también conocido como Ceros y Cruces, tres en raya (España,
 ![python](./Images/Captura.PNG)
 
 ![python](./Images/Captura1.PNG)
+
+- Tres en línea 3X3X3
+
+![python](./Images/old.jpg)
