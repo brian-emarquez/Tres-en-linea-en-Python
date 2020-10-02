@@ -1,5 +1,5 @@
 
-<h2 align="center">Tres en Linea &nbsp; 🎮 &nbsp;</h2>
+<h2 align="center">🎲 Tres en Linea &nbsp; 🎮 &nbsp;</h2>
 
 ![python](./Images/Tictactoe1.gif)
 
